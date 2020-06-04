@@ -1,4 +1,4 @@
-foreach ($file in Get-ChildItem -Path ./src) {
+foreach ($file in Get-ChildItem -Path . -Recurse) {
     switch ($file.Extension) {
         ".rs" {
             Write-Host "format Rust" $file.Name;

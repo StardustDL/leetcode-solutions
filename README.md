@@ -1,6 +1,6 @@
-# LeetCode Solutions
+# Online Judge Solutions
 
-My solutions and codes for the problems on LeetCode.
+My solutions and codes for the problems on Online Judges.
 
 # License
 

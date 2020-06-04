@@ -2,7 +2,6 @@
 *.out
 *.class
 *.pyc
-*.csproj
 .vscode
 bin
 obj
